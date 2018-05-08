@@ -1,2 +1,2 @@
-this is file1
+this is file1, change without conflict
 this is change #1
